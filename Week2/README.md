@@ -1,4 +1,4 @@
-Link to week 2 lecture: 
+Link to week 2 lecture: https://docs.google.com/presentation/d/1sx9Il-TFLhPs8sScrazm2fWB2gij1JLPWnnD8Hg-DWU/edit?usp=sharing
 
 Link to week 2 collab notebooks: https://drive.google.com/open?id=1MCspQ1GOp9AmZ2NXsvmsq_EZToCntaVf
 

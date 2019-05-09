@@ -1,6 +1,8 @@
 You should run these notebooks locally.
 In make_env.sh you can find useful commands for creating the Week8 environment.
 
+Link to week 8 collab notebooks: https://drive.google.com/open?id=1rzdWWaaunzhUpc7Ai-UrBXuYHBDedpkR
+
 Useful materials:
 1. [Serving basics](https://www.tensorflow.org/tfx/serving/serving_basic)
 2. [Serving ML Quickly with TensorFlow Serving and Docker](https://medium.com/tensorflow/serving-ml-quickly-with-tensorflow-serving-and-docker-7df7094aa008)
